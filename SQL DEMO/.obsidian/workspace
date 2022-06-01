@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "81fd075b95bb01de",
+    "type": "split",
+    "children": [
+      {
+        "id": "202ebf1d7a87ec8e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DASHBOARD.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5f0d3e69adfd3f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1686d935b47a88fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dadaf097fc5ca0d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "77cc08e149f321fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c01e3d9f93df5d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "63648fa327b3b19b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5768a56ad3e2b65d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DASHBOARD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "202ebf1d7a87ec8e",
+  "lastOpenFiles": [
+    "DASHBOARD.md",
+    "DENTAL CO/STAFF/Emily.md",
+    "DENTAL CO/PATIENTS/Christina A.md",
+    "DENTAL CO/STAFF/Alex.md",
+    "DENTAL CO/PATIENTS/Brenden O.md",
+    "DENTAL CO/PATIENTS/Ashley M.md",
+    "DENTAL CO/STAFF/John.md",
+    "DENTAL CO/PATIENTS/Dan A.md",
+    "DENTAL CO/PATIENTS/Josh S.md",
+    "DENTAL CO/PATIENTS/Katie B.md"
+  ]
+}
